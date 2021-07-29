@@ -2,6 +2,10 @@
  
 Manage permissions for the [k8s cluster](https://github.com/Fairbanks-io/flux-gitops-apps) as Code
 
+## Setup
+
+Create the folder structure `.github/workflows` and place the included [site-status.yaml](site-status.yaml) file in the directory.
+
 ## Repo Usage
 
 #### Deployments
