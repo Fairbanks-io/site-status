@@ -1,5 +1,6 @@
 {
     "status": "disabled",
+    "reason": "Ongoing site issues: See #server-ops on Slack",
     "admins": [
         "jonfairbanks"
     ]
