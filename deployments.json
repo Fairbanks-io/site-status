@@ -1,7 +1,8 @@
 {
-    "status": "disabled",
+    "status": "enabled",
     "reason": "Ongoing site issues: See #server-ops on Slack",
     "admins": [
-        "jonfairbanks"
+        "jonfairbanks",
+        "bsord"
     ]
 }
